@@ -69,3 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # react-web-app-store
+![dog](https://media.istockphoto.com/photos/cute-funny-dog-in-a-shirt-and-glasses-works-at-a-laptop-a-golden-is-picture-id1364837326?b=1&k=20&m=1364837326&s=170667a&w=0&h=p57SC33HBTTAqy__qStmij0fMSkvageLgS_SjoanJK8=)
+task failed successfully !
